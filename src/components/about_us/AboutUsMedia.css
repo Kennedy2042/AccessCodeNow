@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {
+
+    .about-us-wrapper h1{
+        font-size: 24px;
+    }
+
+    .about-us-wrapper p{
+        font-size: 14px;
+        width: 90%;
+    }
+
+}

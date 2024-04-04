@@ -1,0 +1,56 @@
+@media only screen and (max-width: 768px) {
+    .footer-container {
+        width: 90%;
+        height: 80%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        overflow-x: auto;
+    }
+
+    .footer-what-we-offer-div {
+        width: 30%;
+        height: 90%;
+        /* background: #000; */
+    }
+
+    .footer-what-we-offer-div h2 {
+        font-size: 12px;
+    }
+
+    .footer-what-we-offer-div ul {
+        padding-left: 1px;
+        gap: 5px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .footer-our-product-div h2 {
+        font-size: 12px;
+    }
+
+    .footer-our-product-div ul {
+        padding-left: 1px;
+        gap: 5px;
+        margin-top: 10px;
+        font-size: 12px;
+        width: 80%;
+    }
+
+    .footer-other-link-div h2 {
+        font-size: 12px;
+    }
+
+    .footer-other-link-div ul {
+        padding-left: 1px;
+        gap: 5px;
+        margin-top: 10px;
+        font-size: 12px;
+        width: 80%;
+    }
+
+    .footer-signature h1 {
+        font-size: 18px;
+    }
+
+}
