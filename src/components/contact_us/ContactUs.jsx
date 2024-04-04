@@ -1,13 +1,14 @@
-import React from 'react'
-import './ContactUs.css'
-import contact from '../../../public/contactUs.svg'
+import React from 'react';
+import './ContactUs.css';
+import './ContactUsMedia.css';
+import contact from '../../../public/contactUs.svg';
 
 const ContactUs = () => {
   return (
     <>
       <div className="contact-container">
         <div className="container-info-container">
-          <div className="container-infor-wrapper">
+          <div className="container-info-wrapper">
             <h1>Contact Us</h1>
             <input type="text" placeholder='Please enter your Full Name' className='contact-us-input-name' />
             <input type="email" placeholder='Please enter your Email Address' className='contact-us-input-name' />

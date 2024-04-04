@@ -1,0 +1,28 @@
+@media only screen and (max-width: 768px) {
+
+    .container-info-image-container {
+        display: none;
+    }
+
+    .container-info-container {
+        width: 100%;
+    }
+
+    .container-info-wrapper {
+        width: 95%;
+    }
+
+    .contact-us-input-name {
+        width: 85%;
+    }
+
+    .contact-us-input-msg {
+        width: 85%;
+    }
+
+    .contact-us-btn {
+        font-size: 14px;
+        width: 75%;
+    }
+
+}
